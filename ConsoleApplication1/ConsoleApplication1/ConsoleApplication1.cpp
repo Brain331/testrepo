@@ -15,6 +15,11 @@ double& teamLead(double& a)
     return a;
 }
 
+float& teamLead(float& a)
+{
+    return a;
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
