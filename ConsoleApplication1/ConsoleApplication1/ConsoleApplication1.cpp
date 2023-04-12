@@ -29,6 +29,15 @@ char& teamLead(char& a)
 {
     return a;
 }
+void
+
+int
+
+double
+
+float
+
+char
 
 int main()
 {
