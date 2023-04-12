@@ -27,15 +27,7 @@ char& teamLead(char& a)
 }
 void
 
-int
-
-double
-
-float
-
-char
-
-arr
+REBASE
 
 int main()
 {
