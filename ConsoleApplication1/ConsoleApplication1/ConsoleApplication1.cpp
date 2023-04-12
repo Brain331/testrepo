@@ -20,10 +20,6 @@ float display(float a)
     return 0;
 }
 
-char display(char a)
-{
-    return 0;
-}
 
 char& teamLead(char& a)
 {
