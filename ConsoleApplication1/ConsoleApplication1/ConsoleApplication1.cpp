@@ -1,23 +1,28 @@
 #include <iostream>
 
-void teamLead()
+void display()
 {
 
 }
 
-int& teamLead(int& a)
+int display(int a)
 {
-    return a;
+    return 0;
 }
 
-double& teamLead(double& a)
+double display(double a)
 {
-    return a;
+    return 0;
 }
 
-float& teamLead(float& a)
+float display(float a)
 {
-    return a;
+    return 0;
+}
+
+char display(char a)
+{
+    return 0;
 }
 
 char& teamLead(char& a)
